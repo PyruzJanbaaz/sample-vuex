@@ -1,4 +1,4 @@
-# sample-vuex
+# How to use vuex4 and Vue3 for state management
 
 ## Project setup
 ```
