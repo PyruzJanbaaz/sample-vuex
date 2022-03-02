@@ -3,6 +3,15 @@ Vuex is a state management pattern + library for Vue.js applications. It serves 
 Vuex helps us deal with shared state management with the cost of more concepts and boilerplate. It's a trade-off between short term and long term productivity.
 If you've never built a large-scale SPA and jump right into Vuex, it may feel verbose and daunting. That's perfectly normal - if your app is simple, you will most likely be fine without Vuex. A simple store pattern may be all you need. But if you are building a medium-to-large-scale SPA, chances are you have run into situations that make you think about how to better handle state outside of your Vue components, and Vuex will be the natural next step for you.
 
+## Dependencies
+```
+- "axios": "^0.26.0",
+- "bootstrap": "^5.1.3",
+- "core-js": "^3.8.3",
+- "vue": "^3.2.13",
+- "vuex": "^4.0.2"
+```
+
 ## Project setup
 ```
 npm install
